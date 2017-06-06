@@ -1,0 +1,290 @@
+  <!DOCTYPE HTML>
+
+  <html> 
+
+    <head>
+
+       <title>hmtl ve css ogrenıyorum</title>
+  
+
+       <meta name= "Descripton" content="unal html ve css ogreniyor">
+       <meta name="Keywords" content="html dersleri, html, html dili">
+   </head> 
+   
+       <body> 
+     <h1> html ogrenıyorum ben</h1>
+     <h2> html ogrenıyorum ben</h2>
+     <h3> html ogrenıyorum ben</h3>
+     <h4> html ogrenıyorum ben</h4>
+     <h5> html ogrenıyorum ben</h5>
+     <h6> html ogrenıyorum ben</h6>
+
+     <p>
+     Sayfanın içerik tipini ve karakter kodlamasını &nbsp; belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.
+     <P>
+     Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.	
+     <P>
+     Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.	
+
+     </p>  
+     <pre>
+      Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.		
+
+
+     </pre>
+
+     <abbr title= "Türk Silahlı Kuvvetleri">TSK</abbr>
+
+    <pre>matematik te kullanılan X<sup>2</sup> ve kimyada kullanılan H<sub>2</sub>O</pre>
+
+     <p>
+      Sayfanın içerik <b>tipini</b> ve karakter <strong> <i>kodlamasını</i></strong> belirtir.Önemli bir <em>özelliktir</em> çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.Eğer Türkçe bir sayfa yapınız <strong>varsa</strong> kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.		
+	<p>
+
+	<blockquote>
+
+      Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir.<q>Eğer Türkçe bir sayfa yapınız varsa</q> kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.	
+
+	</blockquote>
+
+
+      <p>
+	      	
+      Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir. Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.		
+
+      <p>
+
+      <code>
+      	
+       Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir. Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.		
+       
+       </code>
+
+
+       <p>
+
+
+
+       <cite>
+       Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir. Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.
+
+
+       </cite>
+
+       
+      
+      <address>kavaklı mah inönü cad 145. sok no 11</address>
+
+      
+
+      <h1>görsel alan ve açıklaması</h1>
+      <p>
+      	
+		Sayfanın içerik tipini ve karakter kodlamasını belirtir.Önemli bir özelliktir çünkü sayfanın karakter kodlaması varsayılan olarak ISO-8859-1’dir. Eğer Türkçe bir sayfa yapınız varsa kodlamayı utf-8 yapmalısınız.İki çeşit yazılışı vardır.
+
+
+		</p>
+
+
+      
+		<h1>sırasuz liste etiketleri</h1>
+      <ul>
+      	<li>liste elemanı1</li>
+		<li>liste elemanı2</li>
+		<li>liste elemanı3</li>
+		<li>liste elemanı4</li>
+		<li>liste elemanı5</li>
+		<li>liste elemanı6</li>
+		<li>liste elemanı7</li>
+
+	</ul>
+      	<h2>sıralı liste elemanları</h2>
+    <ol>
+	    <li>liste elemanı 1</li>
+		<li>liste elemanı 1
+				<ul>
+					<li>liste elemanı 3.1</li>
+					<li>liste elemanı 3.2</li>
+					<li>liste elemanı 3.3</li>
+					<li>liste elemanı 3.4
+					
+					<ul>
+						<li>liste elemanı 3.1.1</li>
+						<li>liste elemanı 3.1.2</li>
+						<li>liste elemanı 3.1.3</li>
+						<li>liste elemanı 3.1.5</li>
+
+
+                     </ul>
+
+
+                     </li>
+
+
+					
+
+				</ul>
+
+
+		</li>
+		<li>liste elemanı 1</li>
+		<li>liste elemanı 1</li>
+		<li>liste elemanı 1</li>
+                          
+
+
+
+    </ol>
+
+    <h3>tanımlamalı liste elemanı</h3>
+
+	<dl>
+		
+	<dt>HTML</dt>
+	<dd>html web tasarımda ogrenılmesı gerekn ılk kod dilidir</dd>
+	<dt>PHP</dt>
+	<dd>php programala dilinin en zor dilidir</dd>
+
+
+	</dl>	
+    <a href="http://www.google.com">google a gitmek için</a>
+    <p></p>
+    <a href="http://www.youtube.com">youtube a gitmek için</a>
+    <p></p>
+    <a href="yeni kalsör/index.html">indexi görmek için tıkla</a>
+  <h3>alt sayfalara link verme</h3>
+  <a href="Yeni klasör/index.html">alt sayfaları gör</a>
+
+         
+<a href="#konu 1">birinci konuya git</a>
+<a href="#konu 2">ikinci konuya git</a>
+<a href="#konu 3">üçüncü konuya git</a>
+<a href="#konu 4">dördüncü konuya git</a>
+<a href="#konu 5">beşinci konuya git</a>
+<div id="başadön"></div>
+ 
+<h1 id="konu 1">birinci konu</h1>
+
+
+<p>
+Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.
+
+</p>
+
+
+
+<h1 id="konu 2">ikinci konu</h1>
+<p>
+Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.
+
+</p>
+
+<h1 id="konu 3">üçüncü konu</h1>
+<p>
+Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.
+
+</p>
+<h1 id="konu 4">dördüncü konu</h1>
+<p>
+Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.
+
+</p>
+
+
+<h1 id="konu 5">beşinci konu<a href="#başadön">başa dön</a></h1>
+<p>
+Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.Katar Emiri'nin Irak'ın bölgedeki önemine ve iki ülke arasındaki ilişkilerin güçlendirilmesinin gerektiğine dikkati çektiği ve ülkesinin Irak ile iyi ilişkiler geliştirmesini istediği kaydedildi.
+Cuburi'nin ise DEAŞ'ın bitirilmesinden sonra Irak'ın yeni bir aşamaya gireceğini, ülke içinde istikrarı ve güvenliği sağlamaya katkı sağlayacak herkese kapılarının açık olduğunu söylediği
+Eski Irak Başbabakanı Nuri el-Maliki'nin de aralarında bulunduğu Iraklı üst düzey çok sayıda isim daha önce yaptıkları açıklamalarda Katar'ı Irak'taki teröre destek vermekle suçlamıştı.
+
+</p>
+
+
+
+  kaynak dosyaları indirmek için<a href="html.rar">tıklayın</a>
+  <h1>maile link verme</h1>
+  <a href="mailto:test@test.com?subject=deneme">bize mail yollayın</a>
+
+  <h1>resimlere link verme</h1>
+  <a href="img/notebook.jpg">
+  <img src="img/notebook.jpg" alt="notebook"/>
+  </a>
+
+
+   <a href="http://www.google.com" target="_blank">google</a>
+
+   <a href="http://www.domain.tv" rel="nofollow">A sitesi</a>
+   
+   </body>
+
+
+
+  </html> 
